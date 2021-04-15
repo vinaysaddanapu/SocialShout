@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+.login{
+    box-shadow:10px 5px 20px #888888;
+    background-color:white;
+}
+
+body{
+	
+	font-family: sans-serif;
+	
+}
+
+#loginBtn{
+     margin-top:5px;
+	 width:164px;
+}
+
+
+.error{
+    background-color: red;
+	margin-bottom: 100px;
+}
+
+#loginTitle{
+	margin-left: 950px;
+	margin-top: 160px;
+	
+}
+
+
+
